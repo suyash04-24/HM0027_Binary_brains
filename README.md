@@ -32,5 +32,9 @@ https://suyash04-24.github.io/HM0027_Binary_brains/ (gfgpccoe.in)
 ## Video Url
 https://drive.google.com/drive/folders/1137Lv9cuzQTkNkGgS7hv7JW4eCTJe6tj
 
+#PPT URL
+[ppt.pptx](https://github.com/suyash04-24/HM0027_Binary_brains/files/14321531/ppt.pptx)
+
+
 ## Remarks
 - Right now this is just frontend protocol of whole project.
